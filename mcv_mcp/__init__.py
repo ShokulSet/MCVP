@@ -1,0 +1,1 @@
+# MyCourseView MCP Server
